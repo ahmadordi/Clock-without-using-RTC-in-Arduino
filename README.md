@@ -1,4 +1,4 @@
-# Clock without using RTC with temperature and humidity sensor in Arduino
+# Clock without using RTC with temperature and humidity indicator (Arduino)
 
 This small code will work as clock and also it will show the temperature and humidity using the DHT11 temperature and humidity Module.
 I used 3 buttons to be able to set the clock. 
