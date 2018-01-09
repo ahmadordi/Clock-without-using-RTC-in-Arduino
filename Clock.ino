@@ -1,4 +1,5 @@
-// Ahmad Ordikhani Seyedlar
+//Clock without using RTC with temperature and humidity indicator (Arduino)
+//By Ahmad Ordikhani Seyedlar
 
 #include <LiquidCrystal.h>
 #include <SimpleDHT.h>
