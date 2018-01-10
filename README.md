@@ -14,5 +14,5 @@ You will need these pieces for this project:
 
 
 ![alt text](https://github.com/ahmadordi/Clock-without-using-RTC-in-Arduino/blob/master/Clock_Steckplatine.jpg)
-https://github.com/ahmadordi/Clock-without-using-RTC-in-Arduino/blob/master/IMG_20180110_045721.jpg
-https://github.com/ahmadordi/Clock-without-using-RTC-in-Arduino/blob/master/IMG_20180110_045737.jpg
+![alt text](https://github.com/ahmadordi/Clock-without-using-RTC-in-Arduino/blob/master/IMG_20180110_045721.jpg)
+![alt text](https://github.com/ahmadordi/Clock-without-using-RTC-in-Arduino/blob/master/IMG_20180110_045737.jpg)
