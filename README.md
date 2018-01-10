@@ -12,3 +12,5 @@ You will need these pieces for this project:
 6. Breadboard
 7. Some jumper wires
 
+
+![alt text](https://github.com/ahmadordi/Clock-without-using-RTC-in-Arduino/blob/master/Clock_Steckplatine.jpg)
