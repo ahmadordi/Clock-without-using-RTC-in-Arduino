@@ -3,6 +3,8 @@
 This small code will work as clock and also it will show the temperature and humidity using the DHT11 temperature and humidity Module.
 I used 3 buttons to be able to set the clock. 
 
+https://create.arduino.cc/projecthub/ahmadordi/clock-without-using-rtc-in-arduino-with-temperature-and-humi-58e76e
+
 You will need these pieces for this project:
 1. Arduino Uno Board
 2. Button x3
